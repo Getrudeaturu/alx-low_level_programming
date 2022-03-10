@@ -1,5 +1,6 @@
 #include <stdio.h>
-/** C program that prints a string with the use of puts function
+/**
+ *C program that prints a string with the use of puts function
  *
  * main - Entry point
  *
