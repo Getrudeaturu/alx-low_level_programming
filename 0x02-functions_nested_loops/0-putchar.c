@@ -3,7 +3,7 @@
 /**
  * main - prints _putchar, followed by a new line.
  *
- * return 0
+ * Return 0 (success)
  */
 int main(void)
 {
@@ -11,11 +11,11 @@ int main(void)
 
 	char test[9] = "_putchar";
 
-	for (i = 0; i < 9; i++)
+	for (i = 0; i < 8; i++)
 	{
 		_putchar(test[i]);
 	}
 	_putchar('\n');
 
-	return 0;
+	return (0);
 }
