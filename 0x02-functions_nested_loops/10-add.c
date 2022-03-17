@@ -3,8 +3,8 @@
 /**
  * add - a function that adds two integers and returns the result
  *
- * @a - an integar
- * @b - an integar
+ * @a: an integar
+ * @b: an integar
  *
  * Return: sum
  */
